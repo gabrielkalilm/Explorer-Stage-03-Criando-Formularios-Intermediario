@@ -22,9 +22,10 @@ body::before {
 }
 
 #page {
-  padding: 140px 345px 366px;
-  border: 0;
-  width: 1440px;
+  
+  margin: 140px auto 366px;
+  width: 750px;
+  
 }
 
 header {
